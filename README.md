@@ -6,7 +6,6 @@ I'm a Computer Science and Software Engineering student at Lviv Polytechnic Nati
 - 🎓 Studying CS & SE, tackling everything from high-level software architecture to x64 Assembly and digital electronics.
 - 💻 Actively developing enterprise-level backend applications, currently honing my skills through EPAM Campus programs.
 - 🧠 Deeply interested in **Object-Oriented Design**, **Design Patterns**, and writing scalable, fail-fast code.
-- ⚡ Always looking at optimization—whether it's Big-O time-space tradeoffs, micro-optimizations, or hardware sympathy.
 
 ### 🛠️ Tech Stack & Core Skills
 
@@ -15,14 +14,10 @@ I'm a Computer Science and Software Engineering student at Lviv Polytechnic Nati
 - **Spring Ecosystem:** Spring Boot, Spring Core (IoC/DI), Spring MVC, Spring Data
 - **UI & Frontend:** JavaFX for desktop apps, HTML/CSS for web interfaces
 
-**Architecture & Design Patterns**
-- **Principles:** SOLID, DRY, KISS
-- **Patterns:** DAO, Dependency Injection, Singleton, Factory, Strategy, MVC
-
 **Languages & Tools**
-- **Languages:** Java, C++, JavaScript, SQL, x64 Assembly (MASM)
-- **Databases:** HSQLDB, Relational Database Design
-- **Tools & Environments:** Maven, Git, IntelliJ IDEA, Visual Studio, Ubuntu Linux
+- **Languages:** Java, C, C++, SQL
+- **Databases:** MySQL, HSQLDB
+- **Tools & Environments:** Maven, Git, IntelliJ IDEA, Visual Studio
 
 ### 📫 Let's Connect
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/viacheslav-shevchenko-3a27a9377)
